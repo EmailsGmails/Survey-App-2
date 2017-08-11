@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="SurveyApp/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="lv">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body/>
+  </file>
+  <file original="SurveyApp/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="lv">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="1zM-pe-ugH.normalTitle">
+        <source>Cancel</source>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "1zM-pe-ugH";</note>
+      </trans-unit>
+      <trans-unit id="2xi-b9-bfy.text">
+        <source>No</source>
+        <note>Class = "UILabel"; text = "No"; ObjectID = "2xi-b9-bfy";</note>
+      </trans-unit>
+      <trans-unit id="4c8-8t-a2b.normalTitle">
+        <source>Next</source>
+        <note>Class = "UIButton"; normalTitle = "Next"; ObjectID = "4c8-8t-a2b";</note>
+      </trans-unit>
+      <trans-unit id="5ZO-Km-B8T.normalTitle">
+        <source>Next</source>
+        <note>Class = "UIButton"; normalTitle = "Next"; ObjectID = "5ZO-Km-B8T";</note>
+      </trans-unit>
+      <trans-unit id="8aF-WZ-i4k.text">
+        <source>Yes/No</source>
+        <note>Class = "UILabel"; text = "Yes/No"; ObjectID = "8aF-WZ-i4k";</note>
+      </trans-unit>
+      <trans-unit id="19C-3H-fu9.normalTitle">
+        <source>Cancel</source>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "19C-3H-fu9";</note>
+      </trans-unit>
+      <trans-unit id="Aax-WM-rNo.normalTitle">
+        <source>Next</source>
+        <note>Class = "UIButton"; normalTitle = "Next"; ObjectID = "Aax-WM-rNo";</note>
+      </trans-unit>
+      <trans-unit id="EKb-X4-ues.text">
+        <source>Step label</source>
+        <note>Class = "UILabel"; text = "Step label"; ObjectID = "EKb-X4-ues";</note>
+      </trans-unit>
+      <trans-unit id="GsJ-wv-VLd.headerTitle">
+        <source>Are you a professional client?</source>
+        <note>Class = "UITableViewSection"; headerTitle = "Are you a professional client?"; ObjectID = "GsJ-wv-VLd";</note>
+      </trans-unit>
+      <trans-unit id="I4c-Zf-yYy.title">
+        <source>Financial Instrument Survey</source>
+        <target>Financial Instrument Survey</target>
+        <note>Class = "UINavigationItem"; title = "Financial Instrument Survey"; ObjectID = "I4c-Zf-yYy";</note>
+      </trans-unit>
+      <trans-unit id="MgG-al-1um.normalTitle">
+        <source>Fill in survey</source>
+        <target>Fill in survey</target>
+        <note>Class = "UIButton"; normalTitle = "Fill in survey"; ObjectID = "MgG-al-1um";</note>
+      </trans-unit>
+      <trans-unit id="NHD-6A-I9N.normalTitle">
+        <source>Cancel</source>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "NHD-6A-I9N";</note>
+      </trans-unit>
+      <trans-unit id="NVP-gl-5co.normalTitle">
+        <source>Finish</source>
+        <note>Class = "UIButton"; normalTitle = "Finish"; ObjectID = "NVP-gl-5co";</note>
+      </trans-unit>
+      <trans-unit id="NcO-kS-DJg.text">
+        <source>FinancialPosition</source>
+        <note>Class = "UILabel"; text = "FinancialPosition"; ObjectID = "NcO-kS-DJg";</note>
+      </trans-unit>
+      <trans-unit id="RWF-3X-Rff.text">
+        <source>No</source>
+        <note>Class = "UILabel"; text = "No"; ObjectID = "RWF-3X-Rff";</note>
+      </trans-unit>
+      <trans-unit id="S0W-p2-7vZ.text">
+        <source>Answer(s)</source>
+        <note>Class = "UILabel"; text = "Answer(s)"; ObjectID = "S0W-p2-7vZ";</note>
+      </trans-unit>
+      <trans-unit id="UEE-Cd-85B.text">
+        <source>Question</source>
+        <note>Class = "UILabel"; text = "Question"; ObjectID = "UEE-Cd-85B";</note>
+      </trans-unit>
+      <trans-unit id="UHF-DK-JHk.text">
+        <source>No</source>
+        <note>Class = "UILabel"; text = "No"; ObjectID = "UHF-DK-JHk";</note>
+      </trans-unit>
+      <trans-unit id="Y54-mS-dlE.text">
+        <source>Yes</source>
+        <note>Class = "UILabel"; text = "Yes"; ObjectID = "Y54-mS-dlE";</note>
+      </trans-unit>
+      <trans-unit id="YKg-tN-Q8m.normalTitle">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "YKg-tN-Q8m";</note>
+      </trans-unit>
+      <trans-unit id="ciE-RS-hu5.text">
+        <source>Step label</source>
+        <note>Class = "UILabel"; text = "Step label"; ObjectID = "ciE-RS-hu5";</note>
+      </trans-unit>
+      <trans-unit id="cyh-45-JYN.text">
+        <source>Step label</source>
+        <note>Class = "UILabel"; text = "Step label"; ObjectID = "cyh-45-JYN";</note>
+      </trans-unit>
+      <trans-unit id="fKU-jq-aG5.text">
+        <source>Step label</source>
+        <note>Class = "UILabel"; text = "Step label"; ObjectID = "fKU-jq-aG5";</note>
+      </trans-unit>
+      <trans-unit id="fkf-9V-7JP.text">
+        <source>Step label</source>
+        <note>Class = "UILabel"; text = "Step label"; ObjectID = "fkf-9V-7JP";</note>
+      </trans-unit>
+      <trans-unit id="gTR-Od-uzw.normalTitle">
+        <source>Cancel</source>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "gTR-Od-uzw";</note>
+      </trans-unit>
+      <trans-unit id="h2n-Hx-aRz.text">
+        <source>No</source>
+        <note>Class = "UILabel"; text = "No"; ObjectID = "h2n-Hx-aRz";</note>
+      </trans-unit>
+      <trans-unit id="hrB-57-L5G.text">
+        <source>Yes</source>
+        <note>Class = "UILabel"; text = "Yes"; ObjectID = "hrB-57-L5G";</note>
+      </trans-unit>
+      <trans-unit id="lNq-oT-JY8.text">
+        <source>Client's survey for financial instrument market</source>
+        <target>Client's survey for financial instrument market</target>
+        <note>Class = "UILabel"; text = "Client's survey for financial instrument market"; ObjectID = "lNq-oT-JY8";</note>
+      </trans-unit>
+      <trans-unit id="nwb-Yo-b2l.normalTitle">
+        <source>Next</source>
+        <note>Class = "UIButton"; normalTitle = "Next"; ObjectID = "nwb-Yo-b2l";</note>
+      </trans-unit>
+      <trans-unit id="oYG-Bg-EmR.normalTitle">
+        <source>Cancel</source>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "oYG-Bg-EmR";</note>
+      </trans-unit>
+      <trans-unit id="pS6-H8-icj.normalTitle">
+        <source>Next</source>
+        <target>Next</target>
+        <note>Class = "UIButton"; normalTitle = "Next"; ObjectID = "pS6-H8-icj";</note>
+      </trans-unit>
+      <trans-unit id="rWh-XY-Kzs.text">
+        <source>Step label</source>
+        <note>Class = "UILabel"; text = "Step label"; ObjectID = "rWh-XY-Kzs";</note>
+      </trans-unit>
+      <trans-unit id="s6T-ok-Hql.normalTitle">
+        <source>Next</source>
+        <note>Class = "UIButton"; normalTitle = "Next"; ObjectID = "s6T-ok-Hql";</note>
+      </trans-unit>
+      <trans-unit id="tVY-7s-Dmo.headerTitle">
+        <source>Are you a professional client?</source>
+        <target>Are you a professional client?</target>
+        <note>Class = "UITableViewSection"; headerTitle = "Are you a professional client?"; ObjectID = "tVY-7s-Dmo";</note>
+      </trans-unit>
+      <trans-unit id="ti8-jl-hCN.normalTitle">
+        <source>Cancel</source>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ti8-jl-hCN";</note>
+      </trans-unit>
+      <trans-unit id="uI0-XE-dpY.text">
+        <source>Step label</source>
+        <note>Class = "UILabel"; text = "Step label"; ObjectID = "uI0-XE-dpY";</note>
+      </trans-unit>
+      <trans-unit id="yeH-ek-BgF.text">
+        <source>No</source>
+        <note>Class = "UILabel"; text = "No"; ObjectID = "yeH-ek-BgF";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SurveyApp/Info.plist" source-language="en" datatype="plaintext" target-language="lv">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SurveyApp/en.lproj/Localizable.strings" source-language="en" datatype="plaintext" target-language="lv">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="8.3.3" build-num="8E3004b"/>
+    </header>
+    <body>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Atcelt</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ClientDescriptionQuestion">
+        <source>Describe yourself</source>
+        <target>Aprakstiet sevi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FinancialActivityHasNotPreviouslyCommitted">
+        <source>Prevously not committed</source>
+        <target>Neesmu iepriekš ieguldījis</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FinancialActivityHasPreviouslyCommitted">
+        <source>Prevously committed</source>
+        <target>Esmu iepriekš ieguldījis</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FinancialActivityQuestion">
+        <source>Activity on financial market</source>
+        <target>Jūsu aktivitāte finanšu tirgū</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FinancialSectorPositionAnalyst">
+        <source>Analyst</source>
+        <target>Analītiķis</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FinancialSectorPositionBroker">
+        <source>Broker</source>
+        <target>Starpnieks</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FinancialSectorPositionInvestmentConsultant">
+        <source>Investment consultant</source>
+        <target>Ieguldījumu konsultants</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FinancialSectorPositionPortfolioManager">
+        <source>Portfolio manager</source>
+        <target>Portfolio menedžeris</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FinancialSectorPositionQuestion">
+        <source>Specify position</source>
+        <target>Precizējiet amatu</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FinancialSectorPositionRegulationExpert">
+        <source>Regulation expert</source>
+        <target>Regulāciju eksperts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Finish">
+        <source>Refill survey</source>
+        <target>Atkārtot aptauju</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="HasFinancialSectorPositionQuestion">
+        <source>Did you have a position in the financial sector?</source>
+        <target>Vai Jums ir bijis amats finanšu sektorā?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Next">
+        <source>Next</source>
+        <target>Nākamais</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+        <target>Nē</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OperationPurposeCapitalIncrement">
+        <source>Capital increment</source>
+        <target>Kapitāla palielinājums</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OperationPurposeFinancialMarketOperations">
+        <source>Financial market operations</source>
+        <target>Finansiālā tirga operācijas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OperationPurposeOther">
+        <source>None of the above</source>
+        <target>Neviens no augstāk minētajiem</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OperationPurposeQuestion">
+        <source>Operation purpose</source>
+        <target>Jūsu operācijas mērķi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OperationPurposeSpeculativeOperations">
+        <source>Speculative operations</source>
+        <target>Spekulatīvās operācijas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OperationPurposeStorage">
+        <source>Storage</source>
+        <target>Glabātuve</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OperationPurposeThirdPersonService">
+        <source>Third person service</source>
+        <target>Trešās personas pakalpojumi</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PortfolioCostLessThan500ThousandEuros">
+        <source>Less than 500 000 EUR</source>
+        <target>Zem 500 000 EUR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PortfolioCostMoreThan500ThousandEuros">
+        <source>More than 500 000 EUR</source>
+        <target>Virs 500 000 EUR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PortfolioCostQuestion">
+        <source>Your portfolio cost</source>
+        <target>Jūsu portfolio izmaksas</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ProfessionalClientDescriptionCommercialCommunity">
+        <source>Commercial community</source>
+        <target>Komerciālā kopiena</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ProfessionalClientDescriptionInvestmentCommercialCommunity">
+        <source>Investment commercial community</source>
+        <target>Investīciju komerciālā kopiena</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ProfessionalClientDescriptionLicensed">
+        <source>Licensed</source>
+        <target>Licenzēts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ProfessionalClientDescriptionOther">
+        <source>None of the above</source>
+        <target>Neviens no augstāk minētajiem</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ProfessionalClientStatusQuestion">
+        <source>Are you a professional client?</source>
+        <target>Vai Jūs esiet profesionālais klients?</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="StartBtnText">
+        <source>Fill in survey</source>
+        <target>Aizpildīt aptauju</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="StepLabel">
+        <source>Step %d out of %d</source>
+        <target>Solis %d no %d</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SurveyDescription">
+        <source>Client's survey for financial instrument market</source>
+        <target>Klienta aptauja finansiālo instrumentu tirgum</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Title">
+        <source>Financial Instrument Survey</source>
+        <target>Finansiālo rīku aptauja</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Verification">
+        <source>Verification</source>
+        <target>Verifikācija</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <target>Jā</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
