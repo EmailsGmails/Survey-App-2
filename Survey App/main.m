@@ -1,9 +1,9 @@
 //
 //  main.m
-//  Survey App
+//  SurveyApp
 //
-//  Created by Emils on 03.08.17.
-//  Copyright © 2017. g. EmailsGmails. All rights reserved.
+//  Created by A on 10/07/2017.
+//  Copyright © 2017 EmailsGmails. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

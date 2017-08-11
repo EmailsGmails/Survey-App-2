@@ -1,12 +1,13 @@
 //
 //  AppDelegate.m
-//  Survey App
+//  SurveyApp
 //
-//  Created by Emils on 03.08.17.
-//  Copyright © 2017. g. EmailsGmails. All rights reserved.
+//  Created by A on 10/07/2017.
+//  Copyright © 2017 EmailsGmails. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "UILabel+Helper.h"
 
 @interface AppDelegate ()
 
@@ -16,7 +17,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+    [[UILabel appearance] setSubstituteFontName:@"Helvetica Neue Light"];
     return YES;
 }
 

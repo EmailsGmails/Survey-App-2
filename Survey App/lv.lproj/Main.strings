@@ -1,0 +1,111 @@
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "19C-3H-fu9"; */
+"19C-3H-fu9.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "1zM-pe-ugH"; */
+"1zM-pe-ugH.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "2xi-b9-bfy"; */
+"2xi-b9-bfy.text" = "No";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "4c8-8t-a2b"; */
+"4c8-8t-a2b.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "5ZO-Km-B8T"; */
+"5ZO-Km-B8T.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Yes/No"; ObjectID = "8aF-WZ-i4k"; */
+"8aF-WZ-i4k.text" = "Yes/No";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Aax-WM-rNo"; */
+"Aax-WM-rNo.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Step label"; ObjectID = "EKb-X4-ues"; */
+"EKb-X4-ues.text" = "Step label";
+
+/* Class = "UITableViewSection"; headerTitle = "Are you a professional client?"; ObjectID = "GsJ-wv-VLd"; */
+"GsJ-wv-VLd.headerTitle" = "Are you a professional client?";
+
+/* Class = "UINavigationItem"; title = "Financial Instrument Survey"; ObjectID = "I4c-Zf-yYy"; */
+"I4c-Zf-yYy.title" = "Financial Instrument Survey";
+
+/* Class = "UIButton"; normalTitle = "Fill in survey"; ObjectID = "MgG-al-1um"; */
+"MgG-al-1um.normalTitle" = "Fill in survey";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "NHD-6A-I9N"; */
+"NHD-6A-I9N.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "NVP-gl-5co"; */
+"NVP-gl-5co.normalTitle" = "Finish";
+
+/* Class = "UILabel"; text = "FinancialPosition"; ObjectID = "NcO-kS-DJg"; */
+"NcO-kS-DJg.text" = "FinancialPosition";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "RWF-3X-Rff"; */
+"RWF-3X-Rff.text" = "No";
+
+/* Class = "UILabel"; text = "Answer(s)"; ObjectID = "S0W-p2-7vZ"; */
+"S0W-p2-7vZ.text" = "Answer(s)";
+
+/* Class = "UILabel"; text = "Question"; ObjectID = "UEE-Cd-85B"; */
+"UEE-Cd-85B.text" = "Question";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "UHF-DK-JHk"; */
+"UHF-DK-JHk.text" = "No";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "Y54-mS-dlE"; */
+"Y54-mS-dlE.text" = "Yes";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "YKg-tN-Q8m"; */
+"YKg-tN-Q8m.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Step label"; ObjectID = "ciE-RS-hu5"; */
+"ciE-RS-hu5.text" = "Step label";
+
+/* Class = "UILabel"; text = "Step label"; ObjectID = "cyh-45-JYN"; */
+"cyh-45-JYN.text" = "Step label";
+
+/* Class = "UILabel"; text = "Step label"; ObjectID = "fKU-jq-aG5"; */
+"fKU-jq-aG5.text" = "Step label";
+
+/* Class = "UILabel"; text = "Step label"; ObjectID = "fkf-9V-7JP"; */
+"fkf-9V-7JP.text" = "Step label";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "gTR-Od-uzw"; */
+"gTR-Od-uzw.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "h2n-Hx-aRz"; */
+"h2n-Hx-aRz.text" = "No";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "hrB-57-L5G"; */
+"hrB-57-L5G.text" = "Yes";
+
+/* Class = "UILabel"; text = "Client's survey for financial instrument market"; ObjectID = "lNq-oT-JY8"; */
+"lNq-oT-JY8.text" = "Client's survey for financial instrument market";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "nwb-Yo-b2l"; */
+"nwb-Yo-b2l.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "oYG-Bg-EmR"; */
+"oYG-Bg-EmR.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "pS6-H8-icj"; */
+"pS6-H8-icj.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Step label"; ObjectID = "rWh-XY-Kzs"; */
+"rWh-XY-Kzs.text" = "Step label";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "s6T-ok-Hql"; */
+"s6T-ok-Hql.normalTitle" = "Next";
+
+/* Class = "UITableViewSection"; headerTitle = "Are you a professional client?"; ObjectID = "tVY-7s-Dmo"; */
+"tVY-7s-Dmo.headerTitle" = "Are you a professional client?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ti8-jl-hCN"; */
+"ti8-jl-hCN.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Step label"; ObjectID = "uI0-XE-dpY"; */
+"uI0-XE-dpY.text" = "Step label";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "yeH-ek-BgF"; */
+"yeH-ek-BgF.text" = "No";

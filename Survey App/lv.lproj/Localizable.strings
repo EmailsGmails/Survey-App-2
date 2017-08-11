@@ -1,0 +1,52 @@
+/*
+  Localizable.strings
+  SurveyApp
+
+  Created by Emils on 13.07.17.
+  Copyright © 2017. g. EmailsGmails. All rights reserved.
+*/
+
+"Title" = "Finansiālo rīku aptauja";
+"SurveyDescription" = "Klienta aptauja finansiālo instrumentu tirgum";
+"StartBtnText" = "Aizpildīt aptauju";
+"Back" = "Atpakaļ";
+"Next" = "Nākamais";
+"Cancel" = "Atcelt";
+"Verification" = "Verifikācija";
+"Finish" = "Atkārtot aptauju";
+"StepLabel" = "Solis %d no %d";
+
+"Yes" = "Jā";
+"No" = "Nē";
+
+"ProfessionalClientStatusQuestion" = "Vai Jūs esiet profesionālais klients?";
+"ClientDescriptionQuestion" = "Aprakstiet sevi";
+"OperationPurposeQuestion" = "Jūsu operācijas mērķi";
+"FinancialActivityQuestion" = "Jūsu aktivitāte finanšu tirgū";
+"PortfolioCostQuestion" = "Jūsu portfolio izmaksas";
+"HasFinancialSectorPositionQuestion" = "Vai Jums ir bijis amats finanšu sektorā?";
+"FinancialSectorPositionQuestion" = "Precizējiet amatu";
+
+"ProfessionalClientDescriptionLicensed" = "Licenzēts";
+"ProfessionalClientDescriptionCommercialCommunity" = "Komerciālā kopiena";
+"ProfessionalClientDescriptionInvestmentCommercialCommunity" = "Investīciju komerciālā kopiena";
+"ProfessionalClientDescriptionOther" = "Neviens no augstāk minētajiem";
+
+"OperationPurposeCapitalIncrement" = "Kapitāla palielinājums";
+"OperationPurposeStorage" = "Glabātuve";
+"OperationPurposeSpeculativeOperations" = "Spekulatīvās operācijas";
+"OperationPurposeThirdPersonService" = "Trešās personas pakalpojumi";
+"OperationPurposeFinancialMarketOperations" = "Finansiālā tirga operācijas";
+"OperationPurposeOther" = "Neviens no augstāk minētajiem";
+
+"FinancialActivityHasPreviouslyCommitted" = "Esmu iepriekš ieguldījis";
+"FinancialActivityHasNotPreviouslyCommitted" = "Neesmu iepriekš ieguldījis";
+
+"PortfolioCostLessThan500ThousandEuros" = "Zem 500 000 EUR";
+"PortfolioCostMoreThan500ThousandEuros" = "Virs 500 000 EUR";
+
+"FinancialSectorPositionAnalyst" = "Analītiķis";
+"FinancialSectorPositionBroker" = "Starpnieks";
+"FinancialSectorPositionPortfolioManager" = "Portfolio menedžeris";
+"FinancialSectorPositionInvestmentConsultant" = "Ieguldījumu konsultants";
+"FinancialSectorPositionRegulationExpert" = "Regulāciju eksperts";

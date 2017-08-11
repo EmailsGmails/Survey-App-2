@@ -9,10 +9,28 @@
 /* Begin PBXBuildFile section */
 		01C028191F33544100890E31 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C028181F33544100890E31 /* main.m */; };
 		01C0281C1F33544100890E31 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C0281B1F33544100890E31 /* AppDelegate.m */; };
-		01C0281F1F33544100890E31 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C0281E1F33544100890E31 /* ViewController.m */; };
 		01C028221F33544100890E31 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01C028201F33544100890E31 /* Main.storyboard */; };
 		01C028241F33544100890E31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01C028231F33544100890E31 /* Assets.xcassets */; };
 		01C028271F33544100890E31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01C028251F33544100890E31 /* LaunchScreen.storyboard */; };
+		01C028551F3354FA00890E31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01C0282E1F3354FA00890E31 /* Assets.xcassets */; };
+		01C028561F3354FA00890E31 /* Base.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 01C0282F1F3354FA00890E31 /* Base.lproj */; };
+		01C028571F3354FA00890E31 /* ClientDescriptionTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C028311F3354FA00890E31 /* ClientDescriptionTableViewController.m */; };
+		01C0285A1F3354FA00890E31 /* en.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 01C028361F3354FA00890E31 /* en.lproj */; };
+		01C0285B1F3354FA00890E31 /* FinancialActivityTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C028381F3354FA00890E31 /* FinancialActivityTableViewController.m */; };
+		01C0285C1F3354FA00890E31 /* FinancialSectorPositionTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C0283A1F3354FA00890E31 /* FinancialSectorPositionTableViewController.m */; };
+		01C0285E1F3354FA00890E31 /* InvestSurveyEnums.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C0283E1F3354FA00890E31 /* InvestSurveyEnums.m */; };
+		01C0285F1F3354FA00890E31 /* lv.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 01C0283F1F3354FA00890E31 /* lv.lproj */; };
+		01C028601F3354FA00890E31 /* OperationPurposeTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C028411F3354FA00890E31 /* OperationPurposeTableViewController.m */; };
+		01C028611F3354FA00890E31 /* PortfolioCostTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C028431F3354FA00890E31 /* PortfolioCostTableViewController.m */; };
+		01C028621F3354FA00890E31 /* ProfessionalClientStatusTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C028451F3354FA00890E31 /* ProfessionalClientStatusTableViewController.m */; };
+		01C028631F3354FA00890E31 /* QuestionTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C028471F3354FA00890E31 /* QuestionTableViewCell.m */; };
+		01C028641F3354FA00890E31 /* SurveyApp in Resources */ = {isa = PBXBuildFile; fileRef = 01C028481F3354FA00890E31 /* SurveyApp */; };
+		01C028661F3354FA00890E31 /* SurveyProgress.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C0284C1F3354FA00890E31 /* SurveyProgress.m */; };
+		01C028671F3354FA00890E31 /* SurveyWorkflowManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C0284E1F3354FA00890E31 /* SurveyWorkflowManager.m */; };
+		01C028681F3354FA00890E31 /* UILabel+Helper.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C028501F3354FA00890E31 /* UILabel+Helper.m */; };
+		01C028691F3354FA00890E31 /* VerificationTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C028521F3354FA00890E31 /* VerificationTableViewCell.m */; };
+		01C0286A1F3354FA00890E31 /* VerificationTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C028541F3354FA00890E31 /* VerificationTableViewController.m */; };
+		01C028741F345F4500890E31 /* IntroViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01C028731F345F4500890E31 /* IntroViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,12 +38,45 @@
 		01C028181F33544100890E31 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		01C0281A1F33544100890E31 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		01C0281B1F33544100890E31 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		01C0281D1F33544100890E31 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		01C0281E1F33544100890E31 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		01C028211F33544100890E31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		01C028231F33544100890E31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		01C028261F33544100890E31 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		01C028281F33544100890E31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01C0282E1F3354FA00890E31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		01C0282F1F3354FA00890E31 /* Base.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Base.lproj; sourceTree = "<group>"; };
+		01C028301F3354FA00890E31 /* ClientDescriptionTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClientDescriptionTableViewController.h; sourceTree = "<group>"; };
+		01C028311F3354FA00890E31 /* ClientDescriptionTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClientDescriptionTableViewController.m; sourceTree = "<group>"; };
+		01C028361F3354FA00890E31 /* en.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = en.lproj; sourceTree = "<group>"; };
+		01C028371F3354FA00890E31 /* FinancialActivityTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FinancialActivityTableViewController.h; sourceTree = "<group>"; };
+		01C028381F3354FA00890E31 /* FinancialActivityTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FinancialActivityTableViewController.m; sourceTree = "<group>"; };
+		01C028391F3354FA00890E31 /* FinancialSectorPositionTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FinancialSectorPositionTableViewController.h; sourceTree = "<group>"; };
+		01C0283A1F3354FA00890E31 /* FinancialSectorPositionTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FinancialSectorPositionTableViewController.m; sourceTree = "<group>"; };
+		01C0283D1F3354FA00890E31 /* InvestSurveyEnums.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InvestSurveyEnums.h; sourceTree = "<group>"; };
+		01C0283E1F3354FA00890E31 /* InvestSurveyEnums.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InvestSurveyEnums.m; sourceTree = "<group>"; };
+		01C0283F1F3354FA00890E31 /* lv.lproj */ = {isa = PBXFileReference; lastKnownFileType = folder; path = lv.lproj; sourceTree = "<group>"; };
+		01C028401F3354FA00890E31 /* OperationPurposeTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OperationPurposeTableViewController.h; sourceTree = "<group>"; };
+		01C028411F3354FA00890E31 /* OperationPurposeTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OperationPurposeTableViewController.m; sourceTree = "<group>"; };
+		01C028421F3354FA00890E31 /* PortfolioCostTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PortfolioCostTableViewController.h; sourceTree = "<group>"; };
+		01C028431F3354FA00890E31 /* PortfolioCostTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PortfolioCostTableViewController.m; sourceTree = "<group>"; };
+		01C028441F3354FA00890E31 /* ProfessionalClientStatusTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProfessionalClientStatusTableViewController.h; sourceTree = "<group>"; };
+		01C028451F3354FA00890E31 /* ProfessionalClientStatusTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProfessionalClientStatusTableViewController.m; sourceTree = "<group>"; };
+		01C028461F3354FA00890E31 /* QuestionTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuestionTableViewCell.h; sourceTree = "<group>"; };
+		01C028471F3354FA00890E31 /* QuestionTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuestionTableViewCell.m; sourceTree = "<group>"; };
+		01C028481F3354FA00890E31 /* SurveyApp */ = {isa = PBXFileReference; lastKnownFileType = folder; path = SurveyApp; sourceTree = "<group>"; };
+		01C0284B1F3354FA00890E31 /* SurveyProgress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SurveyProgress.h; sourceTree = "<group>"; };
+		01C0284C1F3354FA00890E31 /* SurveyProgress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SurveyProgress.m; sourceTree = "<group>"; };
+		01C0284D1F3354FA00890E31 /* SurveyWorkflowManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SurveyWorkflowManager.h; sourceTree = "<group>"; };
+		01C0284E1F3354FA00890E31 /* SurveyWorkflowManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SurveyWorkflowManager.m; sourceTree = "<group>"; };
+		01C0284F1F3354FA00890E31 /* UILabel+Helper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+Helper.h"; sourceTree = "<group>"; };
+		01C028501F3354FA00890E31 /* UILabel+Helper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+Helper.m"; sourceTree = "<group>"; };
+		01C028511F3354FA00890E31 /* VerificationTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VerificationTableViewCell.h; sourceTree = "<group>"; };
+		01C028521F3354FA00890E31 /* VerificationTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VerificationTableViewCell.m; sourceTree = "<group>"; };
+		01C028531F3354FA00890E31 /* VerificationTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VerificationTableViewController.h; sourceTree = "<group>"; };
+		01C028541F3354FA00890E31 /* VerificationTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VerificationTableViewController.m; sourceTree = "<group>"; };
+		01C0286B1F33564000890E31 /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/Main.strings; sourceTree = "<group>"; };
+		01C0286C1F33564100890E31 /* lv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = lv; path = lv.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		01C028721F345F4500890E31 /* IntroViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntroViewController.h; sourceTree = "<group>"; };
+		01C028731F345F4500890E31 /* IntroViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntroViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,14 +109,10 @@
 		01C028161F33544100890E31 /* Survey App */ = {
 			isa = PBXGroup;
 			children = (
-				01C0281A1F33544100890E31 /* AppDelegate.h */,
-				01C0281B1F33544100890E31 /* AppDelegate.m */,
-				01C0281D1F33544100890E31 /* ViewController.h */,
-				01C0281E1F33544100890E31 /* ViewController.m */,
 				01C028201F33544100890E31 /* Main.storyboard */,
-				01C028231F33544100890E31 /* Assets.xcassets */,
-				01C028251F33544100890E31 /* LaunchScreen.storyboard */,
-				01C028281F33544100890E31 /* Info.plist */,
+				01C028751F345FB400890E31 /* Model */,
+				01C028761F345FE400890E31 /* Helper */,
+				01C028771F34602F00890E31 /* Controller */,
 				01C028171F33544100890E31 /* Supporting Files */,
 			);
 			path = "Survey App";
@@ -74,9 +121,68 @@
 		01C028171F33544100890E31 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				01C028481F3354FA00890E31 /* SurveyApp */,
+				01C0282E1F3354FA00890E31 /* Assets.xcassets */,
+				01C0282F1F3354FA00890E31 /* Base.lproj */,
+				01C028361F3354FA00890E31 /* en.lproj */,
+				01C0283F1F3354FA00890E31 /* lv.lproj */,
+				01C028231F33544100890E31 /* Assets.xcassets */,
+				01C028251F33544100890E31 /* LaunchScreen.storyboard */,
+				01C028281F33544100890E31 /* Info.plist */,
 				01C028181F33544100890E31 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		01C028751F345FB400890E31 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				01C0283D1F3354FA00890E31 /* InvestSurveyEnums.h */,
+				01C0283E1F3354FA00890E31 /* InvestSurveyEnums.m */,
+				01C028461F3354FA00890E31 /* QuestionTableViewCell.h */,
+				01C028471F3354FA00890E31 /* QuestionTableViewCell.m */,
+				01C0284B1F3354FA00890E31 /* SurveyProgress.h */,
+				01C0284C1F3354FA00890E31 /* SurveyProgress.m */,
+				01C028511F3354FA00890E31 /* VerificationTableViewCell.h */,
+				01C028521F3354FA00890E31 /* VerificationTableViewCell.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		01C028761F345FE400890E31 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				01C0284D1F3354FA00890E31 /* SurveyWorkflowManager.h */,
+				01C0284E1F3354FA00890E31 /* SurveyWorkflowManager.m */,
+				01C0284F1F3354FA00890E31 /* UILabel+Helper.h */,
+				01C028501F3354FA00890E31 /* UILabel+Helper.m */,
+				01C0281A1F33544100890E31 /* AppDelegate.h */,
+				01C0281B1F33544100890E31 /* AppDelegate.m */,
+			);
+			name = Helper;
+			sourceTree = "<group>";
+		};
+		01C028771F34602F00890E31 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				01C028721F345F4500890E31 /* IntroViewController.h */,
+				01C028731F345F4500890E31 /* IntroViewController.m */,
+				01C028441F3354FA00890E31 /* ProfessionalClientStatusTableViewController.h */,
+				01C028451F3354FA00890E31 /* ProfessionalClientStatusTableViewController.m */,
+				01C028301F3354FA00890E31 /* ClientDescriptionTableViewController.h */,
+				01C028311F3354FA00890E31 /* ClientDescriptionTableViewController.m */,
+				01C028401F3354FA00890E31 /* OperationPurposeTableViewController.h */,
+				01C028411F3354FA00890E31 /* OperationPurposeTableViewController.m */,
+				01C028371F3354FA00890E31 /* FinancialActivityTableViewController.h */,
+				01C028381F3354FA00890E31 /* FinancialActivityTableViewController.m */,
+				01C028421F3354FA00890E31 /* PortfolioCostTableViewController.h */,
+				01C028431F3354FA00890E31 /* PortfolioCostTableViewController.m */,
+				01C028391F3354FA00890E31 /* FinancialSectorPositionTableViewController.h */,
+				01C0283A1F3354FA00890E31 /* FinancialSectorPositionTableViewController.m */,
+				01C028531F3354FA00890E31 /* VerificationTableViewController.h */,
+				01C028541F3354FA00890E31 /* VerificationTableViewController.m */,
+			);
+			name = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +243,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01C028641F3354FA00890E31 /* SurveyApp in Resources */,
 				01C028271F33544100890E31 /* LaunchScreen.storyboard in Resources */,
 				01C028241F33544100890E31 /* Assets.xcassets in Resources */,
+				01C0285F1F3354FA00890E31 /* lv.lproj in Resources */,
+				01C028561F3354FA00890E31 /* Base.lproj in Resources */,
+				01C028551F3354FA00890E31 /* Assets.xcassets in Resources */,
+				01C0285A1F3354FA00890E31 /* en.lproj in Resources */,
 				01C028221F33544100890E31 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -150,9 +261,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				01C0281F1F33544100890E31 /* ViewController.m in Sources */,
+				01C028601F3354FA00890E31 /* OperationPurposeTableViewController.m in Sources */,
+				01C0285C1F3354FA00890E31 /* FinancialSectorPositionTableViewController.m in Sources */,
+				01C0286A1F3354FA00890E31 /* VerificationTableViewController.m in Sources */,
+				01C028621F3354FA00890E31 /* ProfessionalClientStatusTableViewController.m in Sources */,
 				01C0281C1F33544100890E31 /* AppDelegate.m in Sources */,
+				01C0285E1F3354FA00890E31 /* InvestSurveyEnums.m in Sources */,
 				01C028191F33544100890E31 /* main.m in Sources */,
+				01C028571F3354FA00890E31 /* ClientDescriptionTableViewController.m in Sources */,
+				01C028691F3354FA00890E31 /* VerificationTableViewCell.m in Sources */,
+				01C028631F3354FA00890E31 /* QuestionTableViewCell.m in Sources */,
+				01C028671F3354FA00890E31 /* SurveyWorkflowManager.m in Sources */,
+				01C0285B1F3354FA00890E31 /* FinancialActivityTableViewController.m in Sources */,
+				01C028661F3354FA00890E31 /* SurveyProgress.m in Sources */,
+				01C028681F3354FA00890E31 /* UILabel+Helper.m in Sources */,
+				01C028741F345F4500890E31 /* IntroViewController.m in Sources */,
+				01C028611F3354FA00890E31 /* PortfolioCostTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -163,6 +287,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				01C028211F33544100890E31 /* Base */,
+				01C0286B1F33564000890E31 /* lv */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -171,6 +296,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				01C028261F33544100890E31 /* Base */,
+				01C0286C1F33564100890E31 /* lv */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -182,6 +308,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
@@ -231,6 +358,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
